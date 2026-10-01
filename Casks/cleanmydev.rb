@@ -4,7 +4,7 @@ cask "cleanmydev" do
 
   url "https://github.com/Zouuabi/CleanMyDev/releases/download/v#{version}/CleanMyDev-#{version}.dmg"
   name "CleanMyDev"
-  desc "Mac cleaner for developers: project-aware junk removal, dev stack map, Docker, quarantine"
+  desc "Cleaner for developers: project-aware junk removal, dev stack map, Docker"
   homepage "https://github.com/Zouuabi/CleanMyDev"
 
   livecheck do
